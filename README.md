@@ -11,7 +11,7 @@ I'm happiest when I'm turning a rough idea into something that actually runs: tr
 </td>
 <td width="35%">
 
-<img src="assets/profile-pixel.png" width="260" style="border-radius:6px;"/>
+<img src="profile-pixel.png" width="260" style="border-radius:6px;"/>
 
 </td>
 </tr>
